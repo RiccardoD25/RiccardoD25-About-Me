@@ -21,7 +21,4 @@
   - [PhotoShop Projects](https://github.com/RiccardoD25/PhotoShop-Projects)   
    
 
-<h2> 🤳 Check Out My LinkedIn:</h2>
-  https://www.linkedin.com/in/rd-riccardo-de-simini/
-
 
